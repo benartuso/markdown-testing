@@ -10,4 +10,8 @@ import oxen
 oxen.hello_there("hi!")
 ```
 
+Here, we'll add an image: 
+
+![A space ox](./images/MoonOx.png)
+
 Thanks for reading! Here's a link to our [docs](https://docs.oxen.ai)
